@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "setuptools-issue-900",
+  "versions": [
+    {
+      "commit": "4025ff7c93ccc0bcba35c40ba03e9db3acfaed83",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:17:55.734155+00:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "pypa",
+  "repo": "setuptools-issue-900",
+  "versions": [
+    {
+      "commit": "4025ff7c93ccc0bcba35c40ba03e9db3acfaed83",
+      "parsed_at": "2026-10-11T09:16:14.163459+00:00",
+      "filetree": "filetree/4025ff7c93ccc0bcba35c40ba03e9db3acfaed83.nq.gz",
+      "blobs": [
+        "blob/a2056e5e2f176b6508aa7346e4601e24c6eac112.nq.gz",
+        "blob/d9f142371748b2e22e59e768da19c69919ce859b.nq.gz",
+        "blob/658b2163fb6dc07c569211feb48e85416a6cf12c.nq.gz",
+        "blob/9cc0939836ee0fa92b0b680592135aa56fcd5e2c.nq.gz",
+        "blob/de40ea7ca058e07a399acf61529d418c07eeee61.nq.gz",
+        "blob/4697696295af902f3a30e789a5fd5961920f7a09.nq.gz",
+        "blob/7c60020200f2211dd63aae64a97a58e5477438eb.nq.gz",
+        "blob/01ff14dab1ceb0d94e2af607ec3445a85e8a47b4.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
